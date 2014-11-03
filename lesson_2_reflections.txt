@@ -1,0 +1,23 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+
+you need to do it to save different revision......
+
+How is the staging area different from the working directory and the repository? What vlaue do you think it offers?
+
+Working direction is where the changes are happening, the stagging area is where it is getting ready to be committed and the repository is where it is 
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+What are some situations when brnaches would be helpful in keeping your history organized>  How would branches help?
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Git's auto merging:
+pro: saves time
+con: could merge the wrong thing or merge in unintended ways
+
+Merges manually?
+pro: takes longer time
+con: could merge the way we want it to.
